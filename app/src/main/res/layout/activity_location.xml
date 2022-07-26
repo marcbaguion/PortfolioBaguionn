@@ -69,7 +69,7 @@
         android:id="@+id/textView11"
         android:layout_width="328dp"
         android:layout_height="162dp"
-        android:layout_marginBottom="184dp"
+        android:layout_marginBottom="176dp"
         android:lineSpacingExtra="16sp"
         android:text="Beach is one of the best recreational activity places to go as you can enjoy the beach sighting and connect with nature. Mall is a onestop shop for all the needs. Every place you go have a special memory in which makes it unique."
         app:layout_constraintBottom_toBottomOf="parent"

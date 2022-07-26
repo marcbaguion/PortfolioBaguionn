@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         btnPlacesListenerMethod();
     }
 
+
     private void btnContactListenerMethod() {
         Intent intent = new Intent(this, ContactActivity.class);
         Button button = findViewById(R.id.btnContact);

@@ -40,3 +40,4 @@ public class OnlinePresenceActivity extends AppCompatActivity {
         });
     }
 }
+

@@ -37,9 +37,9 @@
         android:id="@+id/imageView2"
         android:layout_width="70dp"
         android:layout_height="93dp"
-        android:layout_marginTop="172dp"
+        android:layout_marginTop="160dp"
         app:layout_constraintEnd_toStartOf="@+id/textView2"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.716"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/_80178000_1654755631552152_4504107926829897569_n" />
